@@ -40,5 +40,5 @@ If you love building smart solutions with real impact — we should talk.
 
 - 🌍 [byte5.net](https://www.byte5.net)  
 - 💼 [Careers](https://www.byte5.net/jobs/)  
-- 📅 [Meetups & Events](https://www.meetup.com/pro/web3-frankfurt/)  
+- 📅 [Meetups & Events](https://www.meetup.com/laravel-meetup-germany/)  
 - 💬 [LinkedIn](https://www.linkedin.com/company/byte5/)
