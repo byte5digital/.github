@@ -3,7 +3,7 @@
 
 &nbsp;
 
-At byte5, we’re not just building websites – we’re engineering custom software that solves real problems. We specialize in complex web applications with **Laravel, Umbraco, Medusa.js, and IOTA**. We’re the kind of devs who get excited about clean architecture, well-designed APIs, and tests that actually run.
+At byte5, we’re not just building websites – we’re engineering custom software that solves real problems. We specialize in complex web applications with **Laravel, Umbraco, Medusa.js and omadia.ai **. We’re the kind of devs who get excited about clean architecture, well-designed APIs, and tests that actually run.
 
 Whether it’s headless CMS, decentralized apps, or fully tailored e-commerce platforms – we’re all in.
 
@@ -13,7 +13,7 @@ Whether it’s headless CMS, decentralized apps, or fully tailored e-commerce pl
 ## 🛠️ Our Tech Stack
 
 **PHP-Stack**  
-Laravel · PHP · Statamic · Pimcore 
+Laravel · PHP · Statamic 
 
 **NodeJS-Stack**  
 Next.js · Medusa · Payload CMS 
